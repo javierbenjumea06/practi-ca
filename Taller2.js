@@ -51,6 +51,8 @@ while(true) {
     }
 }
 
+console.log("Uh ah ah ah ah")
+
 
 /*
 Casos de uso (lo que el sistema debe poder hacer)
