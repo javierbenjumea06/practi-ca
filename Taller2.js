@@ -53,6 +53,7 @@ while(true) {
 
 console.log("Uh ah ah ah ah")
 
+console.log("La tuya que se me abre")
 
 /*
 Casos de uso (lo que el sistema debe poder hacer)
