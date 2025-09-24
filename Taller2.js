@@ -50,7 +50,7 @@ while(true) {
         console.log("Escribiste algo invalido.")
     }
 }
-
+console.log("La tuya que se me abre")
 
 /*
 Casos de uso (lo que el sistema debe poder hacer)
